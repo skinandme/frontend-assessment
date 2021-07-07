@@ -1,6 +1,6 @@
 # frontend-assessment
 
-Using the figma design and json file provided It would be great if you could mock-up a front-end react app, and share a private repository (including a README so we can reproduce/run the code).
+Using the figma design and json file provided it would be great if you could mock-up a front-end react app, and share a private repository (including a README so we can reproduce/run the code).
 
 What we’d like to see
 - Responsive components built mobile first. (We have provided the desktop design, feel free to layout the other views)
