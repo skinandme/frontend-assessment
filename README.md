@@ -11,4 +11,4 @@ What we’d like to see
 https://www.figma.com/file/ChammwXnrjDwrqixG8pX5U/Frontend-assessment?node-id=0%3A1
 
 ## How to submit
-Please create a private repo and share with ???
+Please create a private repo and share with @garvey
