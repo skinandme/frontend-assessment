@@ -7,3 +7,5 @@ What we’d like to see
 - Read the content from the JSON file and render it in the components. 
 - Make the “Readme” package icon clickable.
 
+## FIGMA 
+https://www.figma.com/file/ChammwXnrjDwrqixG8pX5U/Frontend-assessment?node-id=0%3A1
