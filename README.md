@@ -9,3 +9,6 @@ What we’d like to see
 
 ## FIGMA 
 https://www.figma.com/file/ChammwXnrjDwrqixG8pX5U/Frontend-assessment?node-id=0%3A1
+
+## How to submit
+Please create a private repo and share with ???
