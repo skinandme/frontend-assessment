@@ -24,8 +24,8 @@ Using the figma design and json file provided it would be great if you could moc
 
 What we’d like to see
 - Responsive components built mobile first. (We have provided the desktop design, feel free to layout the other views)
-- We would like the componets to be reusable, so they could be used in other areas of the site without editing. 
-- Read the content from the JSON file and render it in the components. 
+- We would like the componets to be reusable, so they could be used in other areas of the site by updating the props. 
+- Read the content from the JSON file and render it in the components.
 - Make the “Readme” package icon clickable.
 - We would like you to create a private repository in your github account and commit your code to it. We would urge you to commit relatively frequently so we can get an idea of your style and approach.
 
