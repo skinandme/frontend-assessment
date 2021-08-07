@@ -1,12 +1,12 @@
 {
-  "components": [
-    {
+  "components": {
+    "meetTheProduct": {
       "title": "Meet the products chosen for you",
       "content": "To get the best out of your Skin + Me treatment, it’s all about keeping things simple. Discover our recommended routine – with what to use and when to use it, with the products our expert Dermatology Team recommend for you and your skin.",
       "buttonText": "Check it out",
       "link": "https://www.skinandme.com/"
     },
-    {
+    "faqs": {
       "title": "FAQs",
       "content": "Got questions before you start? We’re here with answers. Find out everything you need to know about our treatments, pricing, delivery, results, routines and more.",
       "buttonText": "Read our FAQs",
@@ -23,11 +23,11 @@
         "faqLink5": "https://www.skinandme.com/"
       }
     },
-    {
+    "newAroundHere": {
       "title": "New around here",
       "content": "Before you click your first dose from your Daily Doser, please read of our Patient Information Leaflet. It’s full of important information about using your Skin + Me personalised solution. ",
       "buttonText": "Read the leaflet",
       "link": "https://www.skinandme.com/"
     }
-  ]
+  }
 }
