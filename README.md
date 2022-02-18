@@ -14,23 +14,33 @@ It goes without saying that our customers are at the core of everything we do. R
 Coldplay once sang 'Nobody said it was easy', and we agree. Every day presents new challenges, and our job to rise up to them, then challenge them ourselves. We ask questions (across every area of the business). Then we question the answers. In return, we're open to getting the same back. Because in the long run, we know we'll all be better for it.
 
 
-# Front-end assessment
+# Developer assessment
 
 ## Purpose
-The purpose of the task is to get an understanding of how you would approach a problem like this, demonstrate some of your core technical skills and to serve as a basis of the follow-up interview which will be conducted with the Engineering Manager and one of our Senior Developers.
+The attached issues are designed to replicate tickets similar to those you would receive as part of the sprint process working at Skin + Me. The purpose of the overall task is to get an understanding of how you would approach a problem like this, demonstrate some of your core technical skills and to serve as a basis of the follow-up interview which will be conducted with the Engineering Manager and one of our Senior Developers.
 
-## Task
-Using the figma design and json file provided it would be great if you could mock-up a front-end react app, and share a private repository (including a README so we can reproduce/run the code).
+## Guidance
 
 What we’d like to see
-- Responsive components built mobile first. (We have provided the desktop design, feel free to layout the other views)
-- We would like the componets to be reusable, so they could be used in other areas of the site by updating the props. 
-- Read the content from the JSON file and render it in the components.
-- Make the “Readme” package icon clickable.
-- We would like you to create a private repository in your github account and commit your code to it. We would urge you to commit relatively frequently so we can get an idea of your style and approach.
+- React: Componentised front-end
+- React: End points that can send and receive information from the back-end
+- Python: You can stub a database if you like, but we still want to see consideration for the models you would use
+- Python:
+- General: README on how to start your project.
+- General: We would like you to create a private repository in your github account and commit your code to it. We would urge you to commit relatively frequently so we can get an idea of your style and approach.
+
+_Not required but would be interesting to see if you feel it is important or shows off your knowledge and skillset particularly_
+- Dockerisation
+- Setting up a database
+- Tests
+- Integration with 3rd party services
+- Running the application in the cloud
+
+Our stack is a React Typescript front-end and a Python Flask back-end with a MySQL database using SQLAlchemy. Do not feel you have to be constrained by this stack, but these technologies can guide you if you are struggling on where to start.
+
 
 ## FIGMA 
-https://www.figma.com/file/ChammwXnrjDwrqixG8pX5U/Frontend-assessment?node-id=0%3A1
+https://www.figma.com/file/AXdabqbn3Vdy6OaPTiAzOb/Full-stack-assessment---Shop?node-id=0%3A1
 
 ## How to submit
-Please create a private repo and share with @garvey and @jimmycarr
+Please create a private repo which you can share with us. Add a PR and set @jimmycarr as the reviewer. Don't be afraid to contact us to discuss the task - doing so will not impact our assessment of your delivery.
